@@ -1,0 +1,12 @@
+/Users/shint1001/Documents/GitHub/nats2.rs/target/debug/deps/half-5f4374093e712ec2.rmeta: /Users/shint1001/.cargo/registry/src/github.com-1ecc6299db9ec823/half-1.7.1/src/lib.rs /Users/shint1001/.cargo/registry/src/github.com-1ecc6299db9ec823/half-1.7.1/src/bfloat.rs /Users/shint1001/.cargo/registry/src/github.com-1ecc6299db9ec823/half-1.7.1/src/bfloat/convert.rs /Users/shint1001/.cargo/registry/src/github.com-1ecc6299db9ec823/half-1.7.1/src/binary16.rs /Users/shint1001/.cargo/registry/src/github.com-1ecc6299db9ec823/half-1.7.1/src/binary16/convert.rs /Users/shint1001/.cargo/registry/src/github.com-1ecc6299db9ec823/half-1.7.1/src/slice.rs
+
+/Users/shint1001/Documents/GitHub/nats2.rs/target/debug/deps/libhalf-5f4374093e712ec2.rlib: /Users/shint1001/.cargo/registry/src/github.com-1ecc6299db9ec823/half-1.7.1/src/lib.rs /Users/shint1001/.cargo/registry/src/github.com-1ecc6299db9ec823/half-1.7.1/src/bfloat.rs /Users/shint1001/.cargo/registry/src/github.com-1ecc6299db9ec823/half-1.7.1/src/bfloat/convert.rs /Users/shint1001/.cargo/registry/src/github.com-1ecc6299db9ec823/half-1.7.1/src/binary16.rs /Users/shint1001/.cargo/registry/src/github.com-1ecc6299db9ec823/half-1.7.1/src/binary16/convert.rs /Users/shint1001/.cargo/registry/src/github.com-1ecc6299db9ec823/half-1.7.1/src/slice.rs
+
+/Users/shint1001/Documents/GitHub/nats2.rs/target/debug/deps/half-5f4374093e712ec2.d: /Users/shint1001/.cargo/registry/src/github.com-1ecc6299db9ec823/half-1.7.1/src/lib.rs /Users/shint1001/.cargo/registry/src/github.com-1ecc6299db9ec823/half-1.7.1/src/bfloat.rs /Users/shint1001/.cargo/registry/src/github.com-1ecc6299db9ec823/half-1.7.1/src/bfloat/convert.rs /Users/shint1001/.cargo/registry/src/github.com-1ecc6299db9ec823/half-1.7.1/src/binary16.rs /Users/shint1001/.cargo/registry/src/github.com-1ecc6299db9ec823/half-1.7.1/src/binary16/convert.rs /Users/shint1001/.cargo/registry/src/github.com-1ecc6299db9ec823/half-1.7.1/src/slice.rs
+
+/Users/shint1001/.cargo/registry/src/github.com-1ecc6299db9ec823/half-1.7.1/src/lib.rs:
+/Users/shint1001/.cargo/registry/src/github.com-1ecc6299db9ec823/half-1.7.1/src/bfloat.rs:
+/Users/shint1001/.cargo/registry/src/github.com-1ecc6299db9ec823/half-1.7.1/src/bfloat/convert.rs:
+/Users/shint1001/.cargo/registry/src/github.com-1ecc6299db9ec823/half-1.7.1/src/binary16.rs:
+/Users/shint1001/.cargo/registry/src/github.com-1ecc6299db9ec823/half-1.7.1/src/binary16/convert.rs:
+/Users/shint1001/.cargo/registry/src/github.com-1ecc6299db9ec823/half-1.7.1/src/slice.rs:

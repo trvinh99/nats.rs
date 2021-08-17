@@ -1,0 +1,11 @@
+/Users/shint1001/Documents/GitHub/nats2.rs/target/debug/deps/signatory-ab42c3d211d294a9.rmeta: /Users/shint1001/.cargo/registry/src/github.com-1ecc6299db9ec823/signatory-0.21.0/src/lib.rs /Users/shint1001/.cargo/registry/src/github.com-1ecc6299db9ec823/signatory-0.21.0/src/encoding.rs /Users/shint1001/.cargo/registry/src/github.com-1ecc6299db9ec823/signatory-0.21.0/src/encoding/macros.rs /Users/shint1001/.cargo/registry/src/github.com-1ecc6299db9ec823/signatory-0.21.0/src/encoding/decode.rs /Users/shint1001/.cargo/registry/src/github.com-1ecc6299db9ec823/signatory-0.21.0/src/encoding/encode.rs /Users/shint1001/.cargo/registry/src/github.com-1ecc6299db9ec823/signatory-0.21.0/src/encoding/error.rs /Users/shint1001/.cargo/registry/src/github.com-1ecc6299db9ec823/signatory-0.21.0/src/public_key.rs
+
+/Users/shint1001/Documents/GitHub/nats2.rs/target/debug/deps/signatory-ab42c3d211d294a9.d: /Users/shint1001/.cargo/registry/src/github.com-1ecc6299db9ec823/signatory-0.21.0/src/lib.rs /Users/shint1001/.cargo/registry/src/github.com-1ecc6299db9ec823/signatory-0.21.0/src/encoding.rs /Users/shint1001/.cargo/registry/src/github.com-1ecc6299db9ec823/signatory-0.21.0/src/encoding/macros.rs /Users/shint1001/.cargo/registry/src/github.com-1ecc6299db9ec823/signatory-0.21.0/src/encoding/decode.rs /Users/shint1001/.cargo/registry/src/github.com-1ecc6299db9ec823/signatory-0.21.0/src/encoding/encode.rs /Users/shint1001/.cargo/registry/src/github.com-1ecc6299db9ec823/signatory-0.21.0/src/encoding/error.rs /Users/shint1001/.cargo/registry/src/github.com-1ecc6299db9ec823/signatory-0.21.0/src/public_key.rs
+
+/Users/shint1001/.cargo/registry/src/github.com-1ecc6299db9ec823/signatory-0.21.0/src/lib.rs:
+/Users/shint1001/.cargo/registry/src/github.com-1ecc6299db9ec823/signatory-0.21.0/src/encoding.rs:
+/Users/shint1001/.cargo/registry/src/github.com-1ecc6299db9ec823/signatory-0.21.0/src/encoding/macros.rs:
+/Users/shint1001/.cargo/registry/src/github.com-1ecc6299db9ec823/signatory-0.21.0/src/encoding/decode.rs:
+/Users/shint1001/.cargo/registry/src/github.com-1ecc6299db9ec823/signatory-0.21.0/src/encoding/encode.rs:
+/Users/shint1001/.cargo/registry/src/github.com-1ecc6299db9ec823/signatory-0.21.0/src/encoding/error.rs:
+/Users/shint1001/.cargo/registry/src/github.com-1ecc6299db9ec823/signatory-0.21.0/src/public_key.rs:

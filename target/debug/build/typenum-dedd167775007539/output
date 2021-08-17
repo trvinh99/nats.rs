@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/shint1001/Documents/GitHub/nats2.rs/target/debug/build/typenum-dedd167775007539/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/shint1001/Documents/GitHub/nats2.rs/target/debug/build/typenum-dedd167775007539/out/op.rs

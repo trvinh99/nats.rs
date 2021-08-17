@@ -1,0 +1,11 @@
+/Users/shint1001/Documents/GitHub/nats2.rs/target/debug/deps/ppv_lite86-1ed52a9996feb520.rmeta: /Users/shint1001/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.10/src/lib.rs /Users/shint1001/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.10/src/soft.rs /Users/shint1001/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.10/src/types.rs /Users/shint1001/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.10/src/x86_64/mod.rs /Users/shint1001/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.10/src/x86_64/sse2.rs
+
+/Users/shint1001/Documents/GitHub/nats2.rs/target/debug/deps/libppv_lite86-1ed52a9996feb520.rlib: /Users/shint1001/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.10/src/lib.rs /Users/shint1001/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.10/src/soft.rs /Users/shint1001/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.10/src/types.rs /Users/shint1001/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.10/src/x86_64/mod.rs /Users/shint1001/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.10/src/x86_64/sse2.rs
+
+/Users/shint1001/Documents/GitHub/nats2.rs/target/debug/deps/ppv_lite86-1ed52a9996feb520.d: /Users/shint1001/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.10/src/lib.rs /Users/shint1001/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.10/src/soft.rs /Users/shint1001/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.10/src/types.rs /Users/shint1001/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.10/src/x86_64/mod.rs /Users/shint1001/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.10/src/x86_64/sse2.rs
+
+/Users/shint1001/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.10/src/lib.rs:
+/Users/shint1001/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.10/src/soft.rs:
+/Users/shint1001/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.10/src/types.rs:
+/Users/shint1001/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.10/src/x86_64/mod.rs:
+/Users/shint1001/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.10/src/x86_64/sse2.rs:

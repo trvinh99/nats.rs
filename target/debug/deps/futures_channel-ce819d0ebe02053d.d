@@ -1,0 +1,10 @@
+/Users/shint1001/Documents/GitHub/nats2.rs/target/debug/deps/futures_channel-ce819d0ebe02053d.rmeta: /Users/shint1001/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.16/src/lib.rs /Users/shint1001/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.16/src/lock.rs /Users/shint1001/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.16/src/mpsc/mod.rs /Users/shint1001/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.16/src/mpsc/queue.rs /Users/shint1001/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.16/src/mpsc/sink_impl.rs /Users/shint1001/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.16/src/oneshot.rs
+
+/Users/shint1001/Documents/GitHub/nats2.rs/target/debug/deps/futures_channel-ce819d0ebe02053d.d: /Users/shint1001/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.16/src/lib.rs /Users/shint1001/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.16/src/lock.rs /Users/shint1001/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.16/src/mpsc/mod.rs /Users/shint1001/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.16/src/mpsc/queue.rs /Users/shint1001/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.16/src/mpsc/sink_impl.rs /Users/shint1001/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.16/src/oneshot.rs
+
+/Users/shint1001/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.16/src/lib.rs:
+/Users/shint1001/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.16/src/lock.rs:
+/Users/shint1001/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.16/src/mpsc/mod.rs:
+/Users/shint1001/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.16/src/mpsc/queue.rs:
+/Users/shint1001/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.16/src/mpsc/sink_impl.rs:
+/Users/shint1001/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.16/src/oneshot.rs:

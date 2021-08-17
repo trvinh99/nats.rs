@@ -1,0 +1,12 @@
+/Users/shint1001/Documents/GitHub/nats2.rs/target/debug/deps/ignore-7febea680994d8eb.rmeta: /Users/shint1001/.cargo/registry/src/github.com-1ecc6299db9ec823/ignore-0.4.18/src/lib.rs /Users/shint1001/.cargo/registry/src/github.com-1ecc6299db9ec823/ignore-0.4.18/src/default_types.rs /Users/shint1001/.cargo/registry/src/github.com-1ecc6299db9ec823/ignore-0.4.18/src/dir.rs /Users/shint1001/.cargo/registry/src/github.com-1ecc6299db9ec823/ignore-0.4.18/src/gitignore.rs /Users/shint1001/.cargo/registry/src/github.com-1ecc6299db9ec823/ignore-0.4.18/src/overrides.rs /Users/shint1001/.cargo/registry/src/github.com-1ecc6299db9ec823/ignore-0.4.18/src/pathutil.rs /Users/shint1001/.cargo/registry/src/github.com-1ecc6299db9ec823/ignore-0.4.18/src/types.rs /Users/shint1001/.cargo/registry/src/github.com-1ecc6299db9ec823/ignore-0.4.18/src/walk.rs
+
+/Users/shint1001/Documents/GitHub/nats2.rs/target/debug/deps/ignore-7febea680994d8eb.d: /Users/shint1001/.cargo/registry/src/github.com-1ecc6299db9ec823/ignore-0.4.18/src/lib.rs /Users/shint1001/.cargo/registry/src/github.com-1ecc6299db9ec823/ignore-0.4.18/src/default_types.rs /Users/shint1001/.cargo/registry/src/github.com-1ecc6299db9ec823/ignore-0.4.18/src/dir.rs /Users/shint1001/.cargo/registry/src/github.com-1ecc6299db9ec823/ignore-0.4.18/src/gitignore.rs /Users/shint1001/.cargo/registry/src/github.com-1ecc6299db9ec823/ignore-0.4.18/src/overrides.rs /Users/shint1001/.cargo/registry/src/github.com-1ecc6299db9ec823/ignore-0.4.18/src/pathutil.rs /Users/shint1001/.cargo/registry/src/github.com-1ecc6299db9ec823/ignore-0.4.18/src/types.rs /Users/shint1001/.cargo/registry/src/github.com-1ecc6299db9ec823/ignore-0.4.18/src/walk.rs
+
+/Users/shint1001/.cargo/registry/src/github.com-1ecc6299db9ec823/ignore-0.4.18/src/lib.rs:
+/Users/shint1001/.cargo/registry/src/github.com-1ecc6299db9ec823/ignore-0.4.18/src/default_types.rs:
+/Users/shint1001/.cargo/registry/src/github.com-1ecc6299db9ec823/ignore-0.4.18/src/dir.rs:
+/Users/shint1001/.cargo/registry/src/github.com-1ecc6299db9ec823/ignore-0.4.18/src/gitignore.rs:
+/Users/shint1001/.cargo/registry/src/github.com-1ecc6299db9ec823/ignore-0.4.18/src/overrides.rs:
+/Users/shint1001/.cargo/registry/src/github.com-1ecc6299db9ec823/ignore-0.4.18/src/pathutil.rs:
+/Users/shint1001/.cargo/registry/src/github.com-1ecc6299db9ec823/ignore-0.4.18/src/types.rs:
+/Users/shint1001/.cargo/registry/src/github.com-1ecc6299db9ec823/ignore-0.4.18/src/walk.rs:
