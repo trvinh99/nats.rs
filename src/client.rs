@@ -233,9 +233,7 @@ impl Client {
         // Wait until the PONG operation is received.
         match pong.recv() {
             Ok(()) => Ok(()),
-            Err(_) => {
-                Err(Error::new(ErrorKind::ConnectionReset, "flush failed"))
-            }
+            Err(_) => Err(Error::new(ErrorKind::ConnectionReset, "flush failed")),
         }
     }
 
@@ -255,8 +253,7 @@ impl Client {
                 // Send an UNSUB message and ignore errors.
                 if let Some(writer) = write.writer.as_mut() {
                     let max_msgs = None;
-                    proto::encode(writer, ClientOp::Unsub { sid, max_msgs })
-                        .ok();
+                    proto::encode(writer, ClientOp::Unsub { sid, max_msgs }).ok();
                     write.flush_kicker.try_send(()).ok();
                 }
             }
@@ -464,8 +461,7 @@ impl Client {
         // Estimate how many bytes the message will consume when written into
         // the stream. We must make a conservative guess: it's okay to
         // overestimate but not to underestimate.
-        let mut estimate =
-            1024 + subject.len() + reply_to.map_or(0, str::len) + msg.len();
+        let mut estimate = 1024 + subject.len() + reply_to.map_or(0, str::len) + msg.len();
         if let Some(headers) = headers {
             estimate += headers
                 .iter()
@@ -493,8 +489,7 @@ impl Client {
         match write.writer.as_mut() {
             None => {
                 // If reconnecting, write into the buffer.
-                let res = proto::encode(&mut write.buffer, op)
-                    .and_then(|_| write.buffer.flush());
+                let res = proto::encode(&mut write.buffer, op).and_then(|_| write.buffer.flush());
                 Some(res)
             }
             Some(mut writer) => {
@@ -547,7 +542,7 @@ impl Client {
                 let _handle = ex.spawn(async move {
                     println!("loop");
                     loop {
-                        smol::Timer::after(Duration::from_secs(5)).await;
+                        smol::Timer::after(Duration::from_secs(120)).await;
 
                         let mut state_timeout = client_clone.state.write.lock();
 
@@ -558,8 +553,7 @@ impl Client {
                                 println!("None write");
                             }
                             Some(mut writer) => {
-                                let encode =
-                                    proto::encode(&mut writer, ClientOp::Ping);
+                                let encode = proto::encode(&mut writer, ClientOp::Ping);
                                 match encode {
                                     Ok(_) => println!("ok ping"),
                                     Err(_) => println!("failed  ping"),
@@ -573,9 +567,7 @@ impl Client {
                         }
                     }
                 });
-                thread::spawn(move || {
-                    future::block_on(ex.run(future::pending::<()>()))
-                });
+                thread::spawn(move || future::block_on(ex.run(future::pending::<()>())));
 
                 if !first_connect {
                     println!("not first connect");
@@ -667,11 +659,7 @@ impl Client {
     }
 
     /// Reads messages from the server and dispatches them to subscribers.
-    fn dispatch(
-        &self,
-        mut reader: impl BufRead,
-        connector: &mut Connector,
-    ) -> io::Result<()> {
+    fn dispatch(&self, mut reader: impl BufRead, connector: &mut Connector) -> io::Result<()> {
         // Handle operations received from the server.
         while let Some(op) = proto::decode(&mut reader)? {
             // Inject random delays when testing.
